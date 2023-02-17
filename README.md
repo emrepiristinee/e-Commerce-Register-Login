@@ -1,7 +1,7 @@
 # e-Commerce-Register-Login
 e-commerce site registration and login
 
-# Engin Demiroğ, Kodlama.io, Java Spring 5. Gün ödevi
+# Engin Demiroğ, Kodlama.io, Java 5. Gün ödevi
 
 Aşağıda bir e-ticaret sisteminde sisteme kayıt ve sisteme giriş için gerekli gereksinim ve kabul kriterlerini yazdım. Bu sisteme ait Java backend yazmak istiyoruz.
 
